@@ -1,0 +1,5 @@
+﻿  Source.cpp
+t:\#mis340\portfolio\myprogramminglab half\chapter_3_project_9\chapter_3_project_9\source.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+t:\#mis340\portfolio\myprogramminglab half\chapter_3_project_9\chapter_3_project_9\source.cpp(33): warning C4101: 'gameCount': unreferenced local variable
+  chapter_3_project_9.vcxproj -> T:\#MIS340\Portfolio\MyProgrammingLab half\chapter_3_project_9\Debug\chapter_3_project_9.exe
+  chapter_3_project_9.vcxproj -> T:\#MIS340\Portfolio\MyProgrammingLab half\chapter_3_project_9\Debug\chapter_3_project_9.pdb (Partial PDB)
