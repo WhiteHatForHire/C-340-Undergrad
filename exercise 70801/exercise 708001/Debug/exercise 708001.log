@@ -1,0 +1,4 @@
+﻿  Source.cpp
+t:\#mis340\portfolio\myprogramminglab half\exercise 70801\exercise 708001\source.cpp(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  exercise 708001.vcxproj -> T:\#MIS340\Portfolio\MyProgrammingLab half\exercise 70801\Debug\exercise 708001.exe
+  exercise 708001.vcxproj -> T:\#MIS340\Portfolio\MyProgrammingLab half\exercise 70801\Debug\exercise 708001.pdb (Partial PDB)
