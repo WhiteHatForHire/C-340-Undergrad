@@ -7,19 +7,8 @@
 /*
 
 
-
-
-
-
 /*
-In the game of craps, a "pass line" bet proceeds as follows. The first roll of the two, six-sided dice in a craps round is called the "come out roll". The bet
-immediately wins when the come out roll is 7 or 11, and loses when the come out roll is 2, 3, or 12. If 4, 5, 6, 8, 9, or 10 is rolled on the come out roll
- that number becomes "the point". The player keeps rolling the dice until either 7 or the point is rolled.
- If the point is rolled first, then the player wins the bet. If the player rolls a 7 first, then the player loses.
- Write a program that plays craps using those rules so that is simulates a game. Instead of the wager the program should calculate
- whether the player would win or lose. Create a a function that simulates rolling the two dice and returns the sum. Add a loop so that the program plays 10,000 games. 
- Add counters that count how many times the player wins and how many times the player loses. At the end of 10,000 gmaes compute the probability of winning as wins / (wins + losses), and 
- output this value. Over the long run who wins more, you or the house?
+Simulated game of craps
 */
 #include <iostream>
 #include <cstdlib>
@@ -33,6 +22,7 @@ int main(){
 	int gameCount;
 	//establish random through time
 	srand(time(0));
+	//for loop to play the game
 	for (int i = 0; i < 10000; i++)
 	{
 		//first roll
@@ -72,7 +62,7 @@ int main(){
 			}
 		}
 		
-	}
+	}//end game loop
 	cout << "Wins = " << wins << endl;
 	cout << "Losses = " << losses << endl;
 	cout << "Win probability: " << (wins / (wins + losses)) * 100 << "%\n";
