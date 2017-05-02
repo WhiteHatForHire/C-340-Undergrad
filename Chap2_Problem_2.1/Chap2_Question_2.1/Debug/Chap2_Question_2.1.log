@@ -1,0 +1,5 @@
+﻿  Source.cpp
+t:\#mis340\portfolio\textbook half\chap2_problem_2.1\chap2_question_2.1\source.cpp(24): warning C4101: 'futureCost': unreferenced local variable
+t:\#mis340\portfolio\textbook half\chap2_problem_2.1\chap2_question_2.1\source.cpp(24): warning C4101: 'newTotal': unreferenced local variable
+  Chap2_Question_2.1.vcxproj -> T:\#MIS340\Portfolio\Textbook half\Chap2_Problem_2.1\Debug\Chap2_Question_2.1.exe
+  Chap2_Question_2.1.vcxproj -> T:\#MIS340\Portfolio\Textbook half\Chap2_Problem_2.1\Debug\Chap2_Question_2.1.pdb (Partial PDB)
