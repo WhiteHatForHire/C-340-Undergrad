@@ -1,0 +1,4 @@
+﻿  Source.cpp
+t:\#mis340\portfolio\textbook half\chapter_3_problem_11\chapter_3_problem_11\source.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  chapter_3_problem_11.vcxproj -> T:\#MIS340\Portfolio\Textbook half\chapter_3_problem_11\Debug\chapter_3_problem_11.exe
+  chapter_3_problem_11.vcxproj -> T:\#MIS340\Portfolio\Textbook half\chapter_3_problem_11\Debug\chapter_3_problem_11.pdb (Partial PDB)
